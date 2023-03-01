@@ -1,0 +1,57 @@
+
+
+@media ( max-width:600px){
+
+header{
+ height: 120px;
+background-color: rgb(77, 76, 76);
+color: white;
+font-size: 1.6em;
+font-weight: 500;
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+
+}
+header div span{
+    font-size: .9em;
+}
+header div{
+   
+    padding-left: 5px;
+    padding-right: 30px;
+}
+.clear1{
+    height: 30px;
+    background-color: rgb(248, 191, 191);
+    font-size: 1.1em;
+    font-weight: 500;
+    color: white;
+}
+header .inp{
+
+width: 250px;
+height: 30px;
+padding-left: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
